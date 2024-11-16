@@ -19,7 +19,7 @@ The Online Reservation System is a Java-based desktop application designed to si
 ## Installation Instructions  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/payalsahu1303/Online-Reservation-System.git  
+   git clone https://github.com/payalsahu1303/ONLINE_RESERVATION_SYSTEM.git 
 2. Set up the MySQL database:
    - Create a database named online_reservation_system.
    - Import the provided SQL script to initialize the database with required tables.
